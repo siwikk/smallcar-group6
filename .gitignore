@@ -26,6 +26,12 @@ local.properties
 .DS_Store
 Thumbs.db
 
+# Irrelevant local files
+12/
+23/
+licenses/
+devecostudio-windows-*.zip
+
 # Misc
 *.log
 *.tmp
